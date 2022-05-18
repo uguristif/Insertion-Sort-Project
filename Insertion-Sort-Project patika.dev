@@ -1,0 +1,30 @@
+[22,27,16,2,18,6]  Insertion Sort
+Step 1 [2,27,16,22,18,6]
+Step 2 [2,6,16,22,18,27]
+Step 3 [2,6,16,18,22,27]
+Step 4 [2,6,16,18,22,27]
+
+Big-O gösterimi
+Average Case Gösterimi
+O((n+1)*(n+2)/2)
+_________________
+      (n+1)
+
+ 
+Average Case; O(n) Algoritmayı tamamladıktan sonra genel olarak kaç işlem yapılacağı ve genel olarak beklenen durum.
+Ortalama yapılan işlem yapısı.
+Best Case; O(n^2) Algoritmanın en hızlı şekilde çalıştığı durum
+Worst Case;O(n^2)  En fazla işlem yapılan ve en yavaş çalışan
+
+
+
+Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer.
+Average Case kapsamına girer.
+
+[7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
+
+Step 1 [7,3,5,8,2,9,4,15,6]
+Step 2 [2,3,5,8,7,9,4,15,6]
+Step 3 [2,3,4,8,7,9,5,15,6]
+Step 4 [2,3,4,5,7,9,8,15,6]
+Step 5 [2,3,4,5,6,9,8,15,7]
